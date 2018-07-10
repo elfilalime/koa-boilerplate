@@ -1,5 +1,5 @@
 {
-  "name": "Koa app",
+  "name": "KoaApp",
   "version": "1.0.0",
   "description": "Koa API microservice",
   "main": "app.js",
